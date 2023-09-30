@@ -1,0 +1,6 @@
+side navbar colors
+#5aff28 lgreen
+#2c8a00 dgreen
+#008b0f header green
+
+#9b9b9b grey
